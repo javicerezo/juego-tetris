@@ -19,7 +19,7 @@ Versión muy simple del clásico juego tetris
 ## Autor ✒️
 **JAVI CEREZO**
 
-* [micorreo@midominio.com](jc.webmob@gmail.com)
+* [Correo](jc.webmob@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/javicerezo/)
 * [Porfolio web](https://javicerezo.netlify.app/)
 
