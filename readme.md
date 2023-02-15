@@ -24,7 +24,7 @@ Versión muy simple del clásico juego tetris
 * [Porfolio web](https://javicerezo.netlify.app/)
 
 ## Instalación 
-Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html
+Este proyecto no necesita de instalación. Simplemente, haz doble click en el enlace del ejemplo en vivo o descargalo, y ejecuta el .html
   
 ## Licencia 📄
 MIT Public License v3.0
