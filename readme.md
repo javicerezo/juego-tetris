@@ -1,7 +1,7 @@
 # Tetris online
 
 <div align="center">
-<img aling="center" src="https://raw.githubusercontent.com/javicerezo/juego-tetris/master/assets/img/tetris.png" alt="logo Jc" height="400" width="800">
+<img aling="center" src="https://raw.githubusercontent.com/javicerezo/juego-tetris/master/public/assets/imgs/preview.png" alt="logo Jc" height="400" width="800">
 </div>
 
 ## Ejemplo en vivo
