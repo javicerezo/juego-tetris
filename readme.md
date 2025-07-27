@@ -1,8 +1,6 @@
 # Tetris online
+![Imagen del proyecto](https://raw.githubusercontent.com/javicerezo/juego-tetris/master/public/assets/imgs/preview.png)
 
-<div align="center">
-<img aling="center" src="https://raw.githubusercontent.com/javicerezo/juego-tetris/master/public/assets/imgs/preview.png" alt="logo Jc" height="400" width="800">
-</div>
 
 ## Ejemplo en vivo
 - [Pulsa para jugar](https://javicerezo.github.io/juego-tetris/). 🚀
